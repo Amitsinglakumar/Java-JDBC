@@ -1,2 +1,1 @@
-# Java-JDBC
-23BCS10075
+This repositry basicallly focuses in the connection of mysql by JDBC.
